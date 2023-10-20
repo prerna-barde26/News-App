@@ -1,0 +1,31 @@
+.news-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.form-control {
+    width: 50px;
+    display: block;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    text-align: center;
+    font-size: 50px;
+    font-family: poppins,sans-serif;
+}
+
+.search-input{
+    height: 40px;
+    font-size: 25px;
+    width: 350px;
+    margin-left: 550px;
+    margin-bottom:7px;
+    border-radius: 10px;
+}
